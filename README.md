@@ -31,6 +31,23 @@ I'm a passionate software developer focused on creating responsive websites and 
 
 ---
 
+## 🏆 Badges & Achievements
+
+<div>
+
+
+- <a href="https://img2num.dev/events/hacktoberfest-2026/">
+    <p><b>Img2Num Contributor — Hacktoberfest 2026</p>
+    <img src="https://img2num.dev/img/events/hacktoberfest-2026/badge.svg" 
+       alt="Img2Num Contributor — Hacktoberfest 2026"
+       width="100"
+       height="100"/>
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 
