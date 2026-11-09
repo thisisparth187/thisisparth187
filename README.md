@@ -5,8 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=700&width=435&lines=Hello!!;I+like+to+code;Currently+I+am+learning...;ReactJS%2C;Data+Science)](https://git.io/typing-svg)
 
-  [![Website](https://img.shields.io/badge/Portfolio%20website-0A1826?style=for-the-badge&logo=linkedin&logoColor=white)](https://thisisparth.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-mangire-aab393349)
+  [![Website](https://img.shields.io/badge/Portfolio%20website-0A1826?style=for-the-badge&logo=linkedin&logoColor=white)](https://thisisparth.vercel.app/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthmpune@gmail.com)
 
 </div>
@@ -15,19 +15,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer focused on creating responsive websites and intuitive web apps. My goal is to excel at everything I do, while constantly learning and improving.
+I'm a Computer Engineering student and developer passionate about building meaningful software — from responsive web applications to AI-powered tools and IoT systems.
 
-- 🔭 **Currently working on:** Creating my Portfolio, Frontend Development with ReactJS,  connecting frontend projects to Vercel
-- 🌱 **Learning:** React.js, MongoDB, Data Science
-- 👯 **Looking to collaborate on:** (Open to new opportunities!)
-- 💬 **Ask me about:** Web development, Data Analysis, anything tech!
-- ⚡ **Let's Play:** Add me on chess to help me improve <p align="center">
-  <a href="https://www.chess.com/member/f1isbetterthan_chess" target="_blank">
-    <img src="https://img.shields.io/badge/Compete%20me%20on-Chess.com-blue?style=for-the-badge&logo=chess-dot-com" alt="Chess.com Profile Badge"/>
-  </a>
-</p>
+- 🔭 Currently building: AI-powered applications and web experiences
+- 🌱 Learning: TypeScript, Next.js, backend development, and AI systems
+- 🌍 Open Source: Contributing to projects and learning from the developer community
+- 💡 Interested in: Software Engineering, AI, Web Technologies, and System Design
+- 🤝 Open to: Open-source collaborations, hackathons, and exciting projects
 
-</a>
 
 ---
 
@@ -48,45 +43,58 @@ I'm a passionate software developer focused on creating responsive websites and 
 
 ---
 
+
 ## 🛠️ Technologies & Tools
 
-
 <table>
-<tr>
-<td valign="top" width="50%">
+ <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
+    </td>
+  </tr>
 
-### 👨‍💻 Languages
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="40"/>
+    </td>
+  </tr>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/>
+    </td>
+  </tr>
 
-</td>
-<td valign="top" width="50%">
-
-### 🗃️ Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
+    </td>
+  </tr>
 </table>
-
-</details>
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=thisisparth187&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://streak-stats.demolab.com/?user=thisisparth187&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thisisparth187&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
 
 ## 💭 Quote of the Day
 
@@ -96,20 +104,13 @@ I'm a passionate software developer focused on creating responsive websites and 
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
-  <h3>Let's build something amazing together!</h3>
-  <p>Open to collaborations and new ideas 💡</p>
-
-  [![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:parthmpune@gmail.com)
-  [![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge&logo=github)](#)
-  [![Hire Me](https://img.shields.io/badge/Hire%20Me-💼-orange?style=for-the-badge&logo=handshake)](https://www.linkedin.com/in/parth-mangire-aab393349)
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_exolotol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-mangire) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthmpune@gmail.com) 
+
+
